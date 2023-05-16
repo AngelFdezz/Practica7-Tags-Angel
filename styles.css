@@ -1,0 +1,19 @@
+header {
+    font-weight: bold;
+    color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 4px solid black;
+}
+
+h2 {
+    color: coral;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    margin: 10%;
+}
